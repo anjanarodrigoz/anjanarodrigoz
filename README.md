@@ -1,64 +1,89 @@
-# Hi there, I'm Anjana Rodrigo 👋
+<div align="center">
 
-I am a passionate **Software Engineer** with over 4 years of experience in **mobile development** using **Flutter** and **Java**, and more recently, in **backend development** using **Spring Boot** and **Node.js**. I specialize in creating user-friendly **mobile** and **web applications** with **React** and **JavaScript**. I'm always excited to learn new technologies and contribute to innovative projects.
+# Hey, I'm Anjana Rodrigo 👋
 
----
+**Senior Flutter Developer · 6+ Years in Mobile Development**
 
-## 🚀 Skills & Tools:
-- **Programming Languages**: Java, Dart, Python, JavaScript
-- **Frameworks & Libraries**: Flutter, React, React Native, Java FX, Spring Boot, Node.js
-- **Databases**: MySQL, Firebase, MongoDB
-- **Tools & IDEs**: IntelliJ IDEA, Android Studio, NetBeans, GitHub, Figma
-- **Other Skills**: GitHub CI/CD, REST APIs, Firebase, Adobe XD
+[![Website](https://img.shields.io/badge/🌐_Website-anjanarodrigo.com-2B5797?style=flat-square)](https://anjanarodrigo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/anjana-rodrigo-a41539191/)
+[![Email](https://img.shields.io/badge/Email-anjanarodrigoz@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anjanarodrigoz@gmail.com)
 
----
-
-## 💼 Professional Experience
-
-**Software Engineer - Idea8 (pvt) Ltd.** (Contract)  
-*May 2024 - Present*  
-Lead projects from conception to completion, focusing on mobile development with **Flutter** and backend services.
-
-**Instructor (BIT) - University of Moratuwa**  
-*Feb 2024 - Present*  
-Leading and mentoring students while overseeing the front-end development of a new **Learning Management System** using **React.js**.
-
-**Mobile Application Developer - Melbourne Mover**  
-*Aug 2020 - Jan 2024*  
-Developed customer and driver apps in **Flutter** for seamless communication and service management.
+</div>
 
 ---
 
-## 📚 Education
-- **BSc (Hons) Mining and Mineral Processing Engineering** - University of Moratuwa (2018 - 2023)
-- **Comprehensive Master Java Developer (CMJD)** - IJSE (2019)
+I build **scalable, cross-platform mobile apps** with Flutter. Currently consulting on healthcare apps at **Idea8** and leading the MIS development team at **University of Moratuwa**. I care about clean code, solid architecture, and shipping apps that people actually love using.
 
 ---
 
-## 🛠️ Projects
+### 🛠 What I Work With
 
-### 🏫 [LMS Project - University of Moratuwa](https://github.com/anjanarodrigoz/LMS-Project)
-- **Role**: Front-End Team Leader  
-- **Tech Stack**: React.js, Redux, Material UI, Axios  
-- Oversaw front-end development for the **Learning Management System** (LMS) project.
-
-### 🚚 [Melbourne Mover Mobile Apps](https://github.com/anjanarodrigoz/Melbourne-Mover)
-- **Role**: Mobile Application Developer  
-- **Tech Stack**: Flutter, Firebase, Google Maps API  
-- Developed customer booking and driver tracking apps for **Melbourne Mover Service**.
-
-### 🍽️ [Zomoto Restaurant Management System](https://github.com/anjanarodrigoz/Zomoto-Management-System)
-- **Role**: Mobile Application Developer  
-- **Tech Stack**: Flutter, Firebase, Zomato API  
-- Created an end-to-end restaurant management system with separate apps for different roles like cashier and kitchen staff.
+```
+Flutter & Dart (6+ yrs)  ·  Clean Architecture  ·  BLoC  ·  Riverpod  ·  GetX
+Firebase  ·  REST APIs  ·  GitHub Actions  ·  GitLab CI/CD  ·  Nginx  ·  Flutter Flavors
+React.js  ·  Redux  ·  Node.js  ·  Figma
+```
 
 ---
 
-## 📫 Connect with Me
-- [GitHub](https://github.com/anjanarodrigoz)
-- [LinkedIn](https://www.linkedin.com/in/anjana-rodrigo-a41539191)
+### 💼 Where I Work
+
+| Role | Company | Focus |
+|------|---------|-------|
+| **Software Engineer (Consultant)** | Idea8 (Pvt) Ltd | Healthcare apps · Flutter · Clean Architecture |
+| **Team Leader – MIS Development** | University of Moratuwa | React.js · Team Leadership · CI/CD |
 
 ---
 
-![Anjana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anjanarodrigoz&show_icons=true&theme=radical)
+### 🚀 Highlighted Projects
 
+**Compass Club** — *Acorn Travel*
+> Travel companion app with trip management, incident reporting, and real-time notifications.
+> `Flutter` `BLoC` `Clean Architecture` `Firebase` `Google Maps`
+
+**Healthcare Clinic Booking App** — *Idea8*
+> Doctor and clinic booking with real-time scheduling and push notifications.
+> `Flutter` `BLoC` `Clean Architecture` `REST APIs`
+
+**Mox And Lotus** — *Idea8*
+> Cross-platform lifestyle app with responsive UI and dependency injection.
+> `Flutter` `BLoC` `Clean Architecture` `REST APIs`
+
+**Melbourne Mover** — *Logistics*
+> Customer & driver apps migrated from native Android to Flutter. Live tracking & payments.
+> `Flutter` `Firebase` `Google Maps API` `PayPal`
+
+**Restaurant Management Suite** — *Zomoto*
+> 4-app ecosystem (Admin, Cashier, Kitchen, Waiter). Currently refactoring to Clean Architecture.
+> `Flutter` `Firebase` `BLoC` `Moor/SQLite`
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![Anjana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anjanarodrigoz&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anjanarodrigoz&layout=compact&hide_border=true&theme=default)
+
+</div>
+
+---
+
+### 🎓 Background
+
+**BSc (Hons) Mining & Mineral Processing Engineering** — University of Moratuwa
+> Published in IEEE Xplore: ML-based prediction of machine hours & fuel consumption.
+
+---
+
+### 📬 Let's Connect
+
+Building something interesting? Need a Flutter dev who thinks in architecture? Reach out — I'm always up for a good conversation about mobile development.
+
+<div align="center">
+
+**[anjanarodrigo.com](https://anjanarodrigo.com)** · **[LinkedIn](https://www.linkedin.com/in/anjana-rodrigo-a41539191/)** · **[Email](mailto:anjanarodrigoz@gmail.com)**
+
+</div>
